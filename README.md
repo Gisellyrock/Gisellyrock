@@ -1,9 +1,5 @@
  ## Hello Wolrd! 👋
- 
- Welcome my universe... <br>
- =) <br>
- 🔭 I’m Giselly Rock and currently working as Full Stack Developer.
- 
+  
 
 <div align="center">
   <a href="https://github.com/gisellyrock">
