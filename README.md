@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <a href="https://picasion.com/">
- <img src="https://i.picasion.com/pic92/3fc1207a8dd33fc404ccdc6b9fb915c5.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+ <img src="https://i.picasion.com/pic92/3fc1207a8dd33fc404ccdc6b9fb915c5.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
  ##
