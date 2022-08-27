@@ -17,7 +17,7 @@
 </p>
 
 
-###🌱 Atualmente estou aprendendo JavaScript e React.
+- 🌱 Atualmente estou aprendendo JavaScript e React.
 - 🚀 Estudante da Udemy e Freecodecamp.
 
 
