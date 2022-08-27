@@ -1,4 +1,34 @@
- ## Hello World! 👋
+<h1 align='center'>
+  Hello World! 👋
+  <br/>
+  Bem vindo a minha página :)
+</h1>
+
+<p align='center'>
+  Desenvolvedora Full Stack
+</p>
+
+### 🌻 Sobre mim:
+
+<p>
+  <em>
+    Tenho 40 anos, estou em transição de carreira, amo livros e tecnologia! s2
+  </em>
+</p>
+
+
+###🌱 Atualmente estou aprendendo JavaScript e React.
+- 🚀 Estudante da Udemy e Freecodecamp.
+
+
+### 📊 Metas 2022:
+
+- 📂 Expandir meu portfólio.
+
+- 📈 Conseguir uma experiência na área.
+
+- 🤝 Melhorar meu inglês para conseguir uma oportunidade internacional.
+
   
 
 <div align="center">
