@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 40 anos, estou em transição de carreira, amo livros e tecnologia! s2
+    Tenho 40 anos, estou em transição de carreira, apaixonada por livros, música e tecnologia! s2
   </em>
 </p>
 
