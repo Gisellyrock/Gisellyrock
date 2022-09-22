@@ -18,7 +18,7 @@
 
 
 - 🌱 Atualmente estou aprendendo JavaScript e React.
-- 🚀 Estudante da Udemy, Freecodecamp e W3Schools.
+- 🚀 Estudante na Udemy, Freecodecamp e W3Schools.
 
 
 ### 📊 Metas 2022:
