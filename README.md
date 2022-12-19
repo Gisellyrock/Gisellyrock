@@ -17,7 +17,7 @@
 </p>
 
 
-- 🌱 Atualmente estou aprendendo JavaScript e React.
+- 🌱 Atualmente estou me aprofundando em JavaScript.
 - 🚀 Estudante na Udemy, Freecodecamp e W3Schools.
 
 
