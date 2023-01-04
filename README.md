@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello World! 👋
+  👋 Hello World! 
   <br/>
   Welcome to my second home :)
 </h1>
