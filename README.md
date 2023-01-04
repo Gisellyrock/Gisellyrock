@@ -1,7 +1,7 @@
 <h1 align='center'>
   👋 Hello World! 
   <br/>
-  Welcome to my second home :)
+  Welcome to my GitHub :)
 </h1>
 
 <p align='center'>
