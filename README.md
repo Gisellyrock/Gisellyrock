@@ -12,13 +12,13 @@
 
 <p>
   <em>
-    I'm 40 years old, and curently doing career transition.
-    I'm in love about tecnology, arts and soft skills. s2
+    I'm 40 years old, and currently doing career transition.
+    I'm in love about technology, arts and soft skills. s2
   </em>
 </p>
 
 
-- 🌱 Studing JavaScript.
+- 🌱 Studying JavaScript.
 - 🚀 Student in Udemy, Freecodecamp e W3Schools.
 
 
@@ -26,10 +26,9 @@
 
 - 📂 Expand my portfolio.
 
-- 📈 Get a eperience in volunteer job.
+- 📈 Get a experience in volunteer job.
 
-- 🤝 Improving my english to get nice international opportunnity.
-
+- 🤝 Improving my english to get nice international opportunity.
   
 
 <div align="center">
