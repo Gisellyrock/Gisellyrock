@@ -1,14 +1,14 @@
 <h1 align='center'>
   Hello World! 👋
   <br/>
-  Bem vindo a minha página :)
+  Welcome to my page :)
 </h1>
 
 <p align='center'>
-  Desenvolvedora Full Stack
+  Full Stack Developer
 </p>
 
-### 🌻 Sobre mim:
+### 🌻 About me:
 
 <p>
   <em>
