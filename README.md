@@ -18,7 +18,7 @@
 </p>
 
 
-- 🌱 Studying HTML, CSS, JavaScript, React, Node.
+- 🌱 Studying HTML, CSS, JavaScript, TypeScript, React, Node.
 
 - 🚀 Student in Udemy, Freecodecamp e W3Schools.
 
