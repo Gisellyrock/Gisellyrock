@@ -18,7 +18,7 @@
 </p>
 
 
-- 🌱 Studying HTML, CSS, JavaScript, TypeScript, React, Node.
+- 🌱 I'm learning HTML, CSS, JavaScript, TypeScript, React, Node.
 
 - 🚀 Student in Udemy, Freecodecamp e W3Schools.
 
