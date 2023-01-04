@@ -19,6 +19,7 @@
 
 
 - 🌱 Studying JavaScript.
+
 - 🚀 Student in Udemy, Freecodecamp e W3Schools.
 
 
