@@ -1,7 +1,7 @@
 <h1 align='center'>
   Hello World! 👋
   <br/>
-  Welcome to my page :)
+  Welcome to my second home :)
 </h1>
 
 <p align='center'>
@@ -12,22 +12,23 @@
 
 <p>
   <em>
-    Tenho 40 anos, estou em transição de carreira e sou apaixonada por artes e tecnologia! s2
+    I'm 40 years old, and curently doing career transition.
+    I'm in love about tecnology, arts and soft skills. s2
   </em>
 </p>
 
 
-- 🌱 Atualmente estou me aprofundando em JavaScript.
-- 🚀 Estudante na Udemy, Freecodecamp e W3Schools.
+- 🌱 Studing JavaScript.
+- 🚀 Student in Udemy, Freecodecamp e W3Schools.
 
 
-### 📊 Metas 2022:
+### 📊 Goals 2023:
 
-- 📂 Expandir meu portfólio.
+- 📂 Expand my portfolio.
 
-- 📈 Conseguir uma experiência na área.
+- 📈 Get a eperience in volunteer job.
 
-- 🤝 Melhorar meu inglês para conseguir uma oportunidade internacional.
+- 🤝 Improving my english to get nice international opportunnity.
 
   
 
