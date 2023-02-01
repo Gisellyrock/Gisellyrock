@@ -18,7 +18,7 @@
 </p>
 
 
-- 🌱 I'm learning TypeScript, React e Node.
+- 🌱 I'm learning TypeScript, React and Node.
 
 - 🚀 Student in Udemy, Freecodecamp e W3Schools.
 
