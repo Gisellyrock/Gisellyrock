@@ -27,7 +27,7 @@
 
 - 📂 Expand my portfolio.
 
-- 📈 Get a experience in volunteer job.
+- 📈 Get a experience as a Developer.
 
 - 🤝 Improving my english to get nice international opportunity.
   
