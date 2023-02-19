@@ -43,7 +43,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <a href="https://picasion.com/">
-<iframe src="https://giphy.com/embed/du9rsxS2uDY99rR91Y" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vania-malvania-bachur-du9rsxS2uDY99rR91Y">via GIPHY</a></p>
+
 </div>
 
  ##
