@@ -20,7 +20,7 @@
 
 - 🌱 I'm learning TypeScript and React.
 
-- 🚀 Student in Udemy, Freecodecamp e W3Schools.
+- 🚀 Student in Udemy, Origamid and Youtube.
 
 
 ### 📊 Goals 2023:
