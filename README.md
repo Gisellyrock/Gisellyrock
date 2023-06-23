@@ -12,7 +12,6 @@
 
 <p>
   <em>
-    I'm 40 years old, and currently doing career transition.
     I'm in love about technology, arts and soft skills. s2
   </em>
 </p>
