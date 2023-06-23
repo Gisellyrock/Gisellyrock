@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Front End Developer
+  Full Stack Developer
 </p>
 
 ### 🌻 About me:
