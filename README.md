@@ -17,7 +17,7 @@
 </p>
 
 
-- 🌱 I'm learning TypeScript, React, PHP, Wordpress. 
+- 🌱 I'm learning TypeScript, React, Node,... 
 
 - 🚀 Student in Udemy, Origamid and Youtube.
 
