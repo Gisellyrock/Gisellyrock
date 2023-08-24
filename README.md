@@ -17,7 +17,7 @@
 </p>
 
 
-- 🌱 I'm learning  Tailwind, TypeScript, React, Next, Node, Dart, Docker... 
+- 🌱 I'm learning  Tailwind, TypeScript, React, Next, Node, Dart, Flutter, Docker,... 
 
 - 🚀 Student in Udemy, Origamid and Youtube.
 
