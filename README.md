@@ -22,7 +22,7 @@
 - 🚀 Student in Udemy, Origamid and Imatech.
 
 
-### 📊 Goals 2023:
+### 📊 Goals 2024:
 
 - 📂 Expand my portfolio.
 
