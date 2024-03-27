@@ -17,18 +17,20 @@
 </p>
 
 
-- 🌱 I'm learning  Tailwind, TypeScript, Next, Node, Dart, Flutter, PHP 8,... 
+- 🌱 "I'm diving deeper into JavaScript and React."
 
-- 🚀 Student in Udemy, Origamid and Imatech.
+- 🚀 Student in Udemy and Origamid.
 
 
 ### 📊 Goals 2024:
 
 - 📂 Expand my portfolio.
-
-- 📈 Get a experience as a Developer.
-
+  
 - 🤝 Improving my english to get nice international opportunity.
+
+- 📈 Get a international experience as a Developer.
+
+
   
 
 <div align="center">
