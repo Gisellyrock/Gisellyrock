@@ -17,16 +17,18 @@
 </p>
 
 
-- 🌱 "I'm diving deeper into JavaScript and React."
+- 🌱 I'm diving deeper into JavaScript and React.
 
 - 🚀 Student in Udemy and Origamid.
+
+- 🤝 Working as Front-End Developer at Kernel System.
 
 
 ### 📊 Goals 2024:
 
 - 📂 Expand my portfolio.
   
-- 🤝 Improving my english to get nice international opportunity.
+- 🤝 Be a great React Front-End Developer. 
 
 - 📈 Get a international experience as a Developer.
 
